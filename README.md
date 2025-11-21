@@ -37,8 +37,8 @@ SECURITY X TB is a powerful and comprehensive Discord bot designed for advanced 
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/SECURITY-X-TB.git
-    cd SECURITY-X-TB
+    git clone https://github.com/vishnuvardhannayak108/security-x-tb.git
+    cd security-x-tb
     ```
 
 2.  **Install dependencies**
@@ -83,6 +83,7 @@ Security settings (Anti-nuke/Anti-spam) are stored in `security_settings.json`. 
 
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
+
 
 
 
