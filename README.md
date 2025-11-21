@@ -25,7 +25,7 @@ SECURITY X TB is a powerful and comprehensive Discord bot designed for advanced 
 *   **Bot Health**: Built-in heartbeat monitoring and auto-restart capabilities.
 
 ### ⚙️ Control
-*   **Owner Commands**: Special `Swork` and `!Stop` commands to globally enable or disable the bot.
+*   **Owner Commands**: Special `Swork` and `SStop` commands to globally enable or disable the bot.
 *   **Hybrid Commands**: Supports both Prefix (`S`) and Slash Commands (`/`).
 
 ## 📋 Prerequisites
@@ -83,4 +83,5 @@ Security settings (Anti-nuke/Anti-spam) are stored in `security_settings.json`. 
 
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
+
 
