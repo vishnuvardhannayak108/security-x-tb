@@ -1,0 +1,14 @@
+{
+    "antinuke_enabled": true,
+    "antispam_enabled": true,
+    "antinuke_ban_threshold": 5,
+    "antinuke_kick_threshold": 3,
+    "antinuke_time_window": 10,
+    "antispam_message_limit": 5,
+    "antispam_time_window": 5,
+    "antispam_mention_limit": 5,
+    "antispam_duplicate_limit": 3,
+    "antispam_action": "mute",
+    "antispam_mute_duration": 10,
+    "whitelisted_roles": []
+}

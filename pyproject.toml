@@ -1,0 +1,12 @@
+[project]
+name = "security-x-tb"
+version = "1.0.0"
+description = "A Discord bot for role management and moderation"
+requires-python = ">=3.8"
+dependencies = [
+    "discord.py==2.3.2",
+    "flask==2.3.3",
+    "werkzeug==2.3.7",
+    "requests==2.31.0",
+    "aiohttp==3.8.5"
+]
